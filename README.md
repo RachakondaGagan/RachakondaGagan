@@ -143,32 +143,6 @@ I like building systems that feel production-ready, not just demo-ready. My work
 
 ## 📈 GitHub Metrics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RachakondaGagan&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachakondaGagan&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RachakondaGagan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RachakondaGagan&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RachakondaGagan&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</div>
-
----
-
-## 📈 GitHub Metrics
-
 
 <br>
 
