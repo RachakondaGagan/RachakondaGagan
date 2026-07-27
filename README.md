@@ -167,6 +167,27 @@ I like building systems that feel production-ready, not just demo-ready. My work
 
 ---
 
+## 📈 GitHub Metrics
+
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=RachakondaGagan&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RachakondaGagan&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<br>
+
 ## 🌱 Currently Exploring
 
 * AI Agents
