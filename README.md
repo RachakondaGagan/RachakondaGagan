@@ -17,9 +17,7 @@
 
 <p>
   <a href="mailto:gaganrachakonda.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
   <a href="https://www.linkedin.com/in/gaganrachakonda/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
   <a href="https://github.com/RachakondaGagan"><img src="https://img.shields.io/badge/GitHub-RachakondaGagan-1a1b26?style=for-the-badge&logo=github&logoColor=white" /></a>
 
   <a href="https://www.gaganrachakonda.dev/"><img src="https://img.shields.io/badge/Portfolio-gaganrachakonda.dev-9ece6a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
